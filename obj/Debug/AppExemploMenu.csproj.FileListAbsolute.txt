@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAmarelo.resources
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAzul.resources
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.FrmVermelho.resources
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+C:\Users\HOME\Desktop\ESCOLA\3º Ano\POO\2º Trimestre\AppExemploMenu\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
